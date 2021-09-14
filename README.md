@@ -6,4 +6,4 @@ commit
 ```bash
 git commit -a -m "message"
 ```
-bit.ly/algProg
+[bit.ly/algProg](http://bit.ly/algProg)
