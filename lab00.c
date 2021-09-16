@@ -13,13 +13,13 @@
 
   'printf function':
     'prefix': 'printf'
-    'body': '''printf("$1", $2);
+    'body': '''printf("%$1", $2);
     $3
     '''
 
 
   'scanf function':
     'prefix': 'scanf'
-    'body': '''scanf("$1",%$2);
+    'body': '''scanf("%$1",%$2);
       $3
     '''
