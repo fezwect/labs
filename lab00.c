@@ -20,6 +20,6 @@
 
   'scanf function':
     'prefix': 'scanf'
-    'body': '''scanf("%$1",%$2);
+    'body': '''scanf("%$1",&$2);
       $3
     '''
