@@ -9,7 +9,7 @@ int main()
   {
     y = (x - 2) * sqrt((1 + x) / (x - 1));
     z = log(y * y - 1);
-    printf ("y(x) = %.4lf\nz(y) = %.4lf\n", y, z);
+    printf ("y(x) = %.3lf\nz(y) = %.3lf\n", y, z);
   }
   else
    printf("x value is incorrect!\n");

@@ -7,6 +7,7 @@ commit
 git commit -a -m "message"
 ```
 [bit.ly/algProg](http://bit.ly/algProg)
+[bit.ly/c_labs](http://bit.ly/c_labs)
 
 Вы можете также указать git хранить ваши данные постоянно:
 
